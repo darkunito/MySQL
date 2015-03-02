@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.meseguer.mysql;
+package edu.upc.eetac.dsa.oriol.mysql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
